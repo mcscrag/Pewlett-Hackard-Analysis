@@ -19,7 +19,7 @@ emp_no int pk fk - Employees.emp_no
 from_date date
 to_date date
 
-Employee_Departments
+Dept_Managers
 -
 emp_no int pk fk - Employees.emp_no
 dept_no varchar pk fk - Departments.dept_no
